@@ -1,8 +1,6 @@
 __pycache__/
+agente_gerente_operaciones/config/settings.yaml
 .env
-*.pyc
-*.pyo
-*.pyd
 .env.*
 .DS_Store
 *.sqlite3

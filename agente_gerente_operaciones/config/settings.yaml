@@ -1,5 +1,6 @@
 # Configuración general del agente y n8n
-openai_api_key: "***REMOVED***"
+openai_api_key: "${OPENAI_API_KEY}" # Configura tu clave como variable de entorno
+ZZIo0QE6Mkmy9JLtkLFIwaWNWKcJYXoN_oPa5eBprLRQQ8-stEy4Wp_DEBxPY386kx7uCZ5vC2T3BlbkFJyesvjYiqhSE0ZPwg8jNXWJZ4K-sSTKNCaJcAYZTLvGNnaFaLrAgtv3TEvVmyZVB69Bice0ZcIA"
 twilio_account_sid: ""
 twilio_auth_token: ""
 twilio_whatsapp_number: ""
