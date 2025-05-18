@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openpyxl
+pandas
+# Sugerencias para integración futura:
+# langchain
+# haystack
+# twilio
+# flask

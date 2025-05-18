@@ -1,0 +1,8 @@
+# Configuración general del agente y n8n
+openai_api_key: "***REMOVED***"
+twilio_account_sid: ""
+twilio_auth_token: ""
+twilio_whatsapp_number: ""
+notificacion_email: ""
+webhook_url: "http://localhost:8000/consulta"
+canal_principal: "whatsapp"

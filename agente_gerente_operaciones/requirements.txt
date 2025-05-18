@@ -1,0 +1,8 @@
+openai-agents
+openpyxl
+pandas
+pyyaml
+twilio
+fastapi
+httpx
+pytest
